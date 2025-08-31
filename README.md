@@ -25,20 +25,8 @@ By linking critical care oxygen use scenarios with country-level energy and econ
 └── README.md # Project description and guidance
 
 
-# Initialize the local repository
-git init
 
-# Add the README file to staging
-git add README.md
-
-# Commit the file
-git commit -m "first commit"
-
-# Rename the default branch to main
-git branch -M main
-
-# Link your local repo to GitHub (replace with your repo URL if different)
+# Link of the local repository GitHub
 git remote add origin https://github.com/kasimallel/OxygenDelivery_country.git
 
-# Push changes to GitHub
-git push -u origin main
+
